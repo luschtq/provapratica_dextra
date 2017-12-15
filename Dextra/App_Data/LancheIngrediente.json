@@ -1,0 +1,70 @@
+[
+  {
+    "ID": 1,
+    "LancheID": 1,
+    "IngredienteID": 2
+  },
+  {
+    "ID": 2,
+    "LancheID": 1,
+    "IngredienteID": 3
+  },
+  {
+    "ID": 4,
+    "LancheID": 1,
+    "IngredienteID": 5
+  },
+  {
+    "ID": 5,
+    "LancheID": 2,
+    "IngredienteID": 3
+  },
+  {
+    "ID": 6,
+    "LancheID": 2,
+    "IngredienteID": 5
+  },
+
+  {
+    "ID": 7,
+    "LancheID": 3,
+    "IngredienteID": 4
+  },
+
+  {
+    "ID": 8,
+    "LancheID": 3,
+    "IngredienteID": 3
+  },
+
+  {
+    "ID": 9,
+    "LancheID": 3,
+    "IngredienteID": 5
+  },
+
+  {
+    "ID": 10,
+    "LancheID": 4,
+    "IngredienteID": 4
+  },
+
+  {
+    "ID": 11,
+    "LancheID": 4,
+    "IngredienteID": 2
+  },
+
+  {
+    "ID": 12,
+    "LancheID": 4,
+    "IngredienteID": 3
+  },
+
+  {
+    "ID": 13,
+    "LancheID": 4,
+    "IngredienteID": 5
+  }
+
+]

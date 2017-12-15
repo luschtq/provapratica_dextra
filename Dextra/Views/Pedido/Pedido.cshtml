@@ -1,0 +1,82 @@
+﻿@model List<Dextra.Models.PedidoModels>
+
+@{
+    ViewBag.Title = "Pedido";
+}
+
+<h2>Pedido</h2>
+
+<fieldset>
+
+    <legend>Pedido número:&nbsp;@Session["PedidoNumero"]</legend>
+
+    @foreach (var pedido in Model)
+    {
+        if (pedido.LancheID.HasValue)
+        {
+            <h2>@Html.LabelFor(a => pedido.LancheNome, pedido.LancheNome.ToString(), new { @style = "font-weight:normal" })</h2><br />
+        }
+        else
+        {
+            <h2>Lanche personalizado</h2>
+        }
+
+        foreach (var item in pedido.IngredienteQuantidade)
+        {
+            <div class="col-md-4">
+                @Html.HiddenFor(a => item.IngredienteID)
+                @Html.HiddenFor(a => item.Quantidade)
+                @Html.HiddenFor(a => item.Valor)
+                @Html.LabelFor(a => item.Nome, @item.Nome, new { @style = "font-weight:normal" })
+            </div>
+            <div class="col-md-2">
+                R$ &nbsp;@item.Valor
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(a => item.Quantidade, @item.Quantidade.ToString(), new { @style = "font-weight:normal" })
+            </div>
+                <div style="clear:both"></div>
+
+        }
+
+        if (pedido.PossuiDesconto)
+        {
+            <strong>Promoção</strong><br />
+
+            if (pedido.DescontoLight)
+            {
+                <h3>Light</h3>
+                <span>10% de desconto</span><br />
+                <span>Desconto&nbsp;-&nbsp;R$ &nbsp;@Html.LabelFor(a => pedido.TotalDescontoLight, pedido.TotalDescontoLight.ToString(), new { @style = "font-weight:normal" })</span>
+            }
+
+
+            if (pedido.DescontoMuitaCarne)
+            {
+                <h3>Muita Carne</h3>
+                <span>Desconto&nbsp;-&nbsp;R$ &nbsp;@Html.LabelFor(a => pedido.TotalDescontoMuitaCarne, pedido.TotalDescontoMuitaCarne.ToString(), new { @style = "font-weight:normal" })</span>
+            }
+
+            if (pedido.DescontoMuitoQueijo)
+            {
+                <h3>Muito queijo</h3>
+                <span>Desconto&nbsp;-&nbsp;R$&nbsp;@Html.LabelFor(a => pedido.TotalDescontoMuitoQueijo, pedido.TotalDescontoMuitoQueijo.ToString(), new { @style = "font-weight:normal" })</span>
+            }
+        }
+
+        <div style="clear:both"><hr /></div>
+    }
+    <div style="float:left; position:relative; width:200px; color:green">
+        <h3>Total de desconto</h3>
+        <span>R$ &nbsp;@Html.LabelFor(a => Model.FirstOrDefault().TotalDesconto, Model.Sum(a => a.TotalDesconto).ToString(), new { @style = "font-weight:normal" })</span>
+    </div>
+
+    <div style="float:right; position:relative; width:400px; color:red; text-align:right">
+        <h2>Total do pedido</h2>
+        <h2>R$ &nbsp; @Html.LabelFor(a => Model.FirstOrDefault().TotalPedido, Model.Sum(a => a.TotalPedido).ToString(), new { @style = "font-weight:normal" })</h2>
+    </div>
+
+    <div style="clear:both"><br /></div>
+    @Html.ActionLink("Voltar", "Index")
+</fieldset>

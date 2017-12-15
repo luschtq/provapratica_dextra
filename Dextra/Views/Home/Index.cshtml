@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Instruções</h2>
+        <p>
+            Para gerar o pedido, clique na opção do menu, Pedido.
+        </p>
+        <p>
+            Para montagem do pedido, poderá ser escolhido um dos lanches do cardápio, ou personalizar com os ingredientes e suas quantidades. É permitido remover algum item de um lanche do cardápio, deixando como zero (0) a quantidade.
+        </p>
+        <p>
+            O valor de lanche do cardápio é dado pela soma dos ingredientes que o compõe. Além destas opções, o cliente pode personalizar seu lanche e escolher os ingredientes que desejar. Nesse caso, o preço do lanche também será calculado pela soma dos ingredientes.
+        </p>
+        <br />
+        <h2>
+            @ViewBag.Arquivos
+        </h2>
+    </div>
+    <div class="col-md-4">
+        <h2>Promoções</h2>
+        <strong>Light</strong>
+        <p>
+            Se o lanche tem alface e não tem bacon, ganha 10% de desconto.
+        </p>
+        <br />
+        <strong>
+            Muita carne
+        </strong>
+        <p>
+            A cada 3 porções de carne o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4. Assim por diante...
+        </p>
+
+        <br />
+        <strong>
+            Muito queijo
+        </strong>
+        <p>
+            A cada 3 porções de queijo o cliente só paga 2. Se o lanche tiver 6 porções, ocliente pagará 4. Assim por diante...
+        </p>
+
+        <h2>Alteração de preço</h2>
+        <h4>Inflação</h4>
+        <p>Os valores dos ingredientes podem ser alterados de acordo com a inflação. Para isso, basta inserir um novo registro no arquivo Inflacao.json, na pasta App_Data</p>
+    </div>
+</div>

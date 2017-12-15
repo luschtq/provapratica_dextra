@@ -1,0 +1,27 @@
+[
+  {
+    "ID": "1",
+    "Nome": "Alface",
+    "Valor": "0,40"
+  },
+  {
+    "ID": "2",
+    "Nome": "Bacon",
+    "Valor": "2,00"
+  },
+  {
+    "ID": "3",
+    "Nome": "Hambúrguer de carne",
+    "Valor": "3,00"
+  },
+  {
+    "ID": "4",
+    "Nome": "Ovo",
+    "Valor": "0,80"
+  },
+  {
+    "ID": "5",
+    "Nome": "Queijo",
+    "Valor": "1,50"
+  }
+]

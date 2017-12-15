@@ -1,0 +1,115 @@
+﻿@model List<Dextra.Models.CardapioViewModels>
+
+@{
+    ViewBag.Title = "Pedido";
+}
+
+<h2>Cardápio</h2>
+<br />
+
+<script>
+    function FinalizarPedido_Habilitar() {
+        document.getElementById("btnFinalizarPedido").style.display = "block";
+    }
+</script>
+
+<fieldset>
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <h3>Lanches</h3>
+        <div class="col-md-2">
+            <strong>Lanche</strong>
+        </div>
+        <div class="col-md-6">
+            <strong>Ingredientes</strong>
+        </div>
+
+        <div style="clear:both"><hr /></div>
+
+        foreach (var item in Model.Where(a => a.CardapioTipoID == 2).ToList())
+        {
+            <div class="col-md-2">
+                @Html.HiddenFor(a => item.ID)
+                @Html.HiddenFor(a => item.CardapioTipoID)
+                @Html.RadioButtonFor(a => @item.Check, @item.ID)
+                @Html.LabelFor(a => item.Descricao, @item.Descricao, new { @style = "font-weight:normal" })
+            </div>
+            <div class="col-md-6">
+                @Html.LabelFor(a => @item.ListIngredientes.FirstOrDefault().Nome, string.Join(", ", @item.ListIngredientes.Select(aa => aa.Nome).ToArray()), new { @style = "font-weight:normal" })
+            </div>
+            <div style="clear:both"><hr /></div>
+        }
+
+        <h3>Ingredientes</h3>
+        <div class="col-md-4">
+            <strong>Ingredientes</strong>
+        </div>
+        <div class="col-md-2">
+            <strong>Valor</strong>
+        </div>
+        <div class="col-md-2">
+            <strong>Qtd</strong>
+        </div>
+
+        <div style="clear:both"><hr /></div>
+        foreach (var item in Model.Where(a => a.CardapioTipoID == 1).ToList())
+        {
+            <div class="col-md-4">
+                @Html.HiddenFor(a => item.ID)
+                @Html.HiddenFor(a => item.CardapioTipoID)
+                @Html.LabelFor(a => item.Descricao, @item.Descricao, new { @style = "font-weight:normal" })
+            </div>
+            <div class="col-md-2">
+                R$ &nbsp;@item.Valor
+            </div>
+
+            <div class="col-md-2">
+                @Html.TextBoxFor(a => item.Quantidade, new { Value = "", @type = "number", @min = "0", @style = "width:50px" })
+            </div>
+
+            <div style="clear:both"><hr /></div>
+        }
+        <div style="clear:both"><br /></div>
+
+        <input type="submit" value="Salvar" class="btn btn-success" onclick="FinalizarPedido_Habilitar()" />
+    }
+
+
+    @if (Session["Pedido"] != null)
+    {
+        var lista = (List<Dextra.Models.PedidoModels>)Session["Pedido"];
+        <br />
+        <fieldset>
+            <legend>Pedidos</legend>
+            <div style="margin:10px">
+                @foreach (var pedido in lista)
+                {
+                    if (pedido.LancheID.HasValue)
+                    {
+                        <span style="font-weight:bold"> @pedido.LancheNome</span>
+                        <span>&nbsp;-&nbsp;</span>
+                    }
+                    else
+                    {
+                        <span style="font-weight:bold">Lanche personalizado</span>
+                        <span>&nbsp;-&nbsp;</span>
+                    }
+
+                    <span>R$&nbsp; @Convert.ToDecimal(@pedido.TotalPedido - @pedido.TotalDesconto)</span>
+                    <br />
+                }
+            </div>
+        </fieldset>
+    }
+
+    @if (ViewBag.FinalizarPedido != null)
+    {
+        using (Html.BeginForm("FinalizarPedido", "Pedido", FormMethod.Post))
+        {
+            <br />
+
+            <input type="submit" value="Finalizar pedido" class="btn btn-default" name="btnFinalizarPedido" />
+        }
+    }
+
+</fieldset>

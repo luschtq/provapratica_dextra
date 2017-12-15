@@ -1,0 +1,347 @@
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\csc.exe
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\System.Collections.Immutable.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\vbc.exe
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe.config
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Dextra.dll.config
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Dextra.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Dextra.pdb
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Antlr3.Runtime.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\EntityFramework.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\EntityFramework.SqlServer.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Web.Infrastructure.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Newtonsoft.Json.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Owin.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Helpers.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Mvc.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Optimization.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Razor.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.Deployment.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.Razor.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\WebGrease.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Helpers.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Mvc.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Optimization.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.Razor.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.Deployment.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\System.Web.WebPages.Razor.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Antlr3.Runtime.pdb
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Newtonsoft.Json.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\EntityFramework.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\EntityFramework.SqlServer.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\obj\Debug\Dextra.csprojResolveAssemblyReference.cache
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\obj\Debug\Dextra.dll
+c:\users\j437665744\documents\visual studio 2015\Projects\Dextra\Dextra\obj\Debug\Dextra.pdb
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\csc.exe
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\vbc.exe
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Dextra.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Dextra.pdb
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Antlr3.Runtime.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\EntityFramework.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\EntityFramework.SqlServer.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Newtonsoft.Json.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Owin.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Helpers.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Mvc.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Optimization.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Razor.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.Razor.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\WebGrease.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Helpers.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Mvc.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Optimization.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.Razor.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Antlr3.Runtime.pdb
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Newtonsoft.Json.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\EntityFramework.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\EntityFramework.SqlServer.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\obj\Debug\Dextra.csprojResolveAssemblyReference.cache
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\obj\Debug\Dextra.dll
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\obj\Debug\Dextra.pdb
+C:\Users\Schneider\Downloads\Dextra\Dextra\Dextra\bin\Dextra.dll.config
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\csc.exe
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\vbc.exe
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Dextra.dll.config
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Dextra.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Dextra.pdb
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Antlr3.Runtime.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\EntityFramework.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\EntityFramework.SqlServer.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Newtonsoft.Json.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Owin.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Helpers.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Mvc.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Optimization.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Razor.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.Razor.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\WebGrease.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Helpers.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Mvc.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Optimization.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.Razor.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\System.Web.WebPages.Razor.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Antlr3.Runtime.pdb
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Newtonsoft.Json.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\EntityFramework.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\EntityFramework.SqlServer.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\j437665744\Downloads\Dextra\Dextra\obj\Debug\Dextra.csprojResolveAssemblyReference.cache
+C:\Users\j437665744\Downloads\Dextra\Dextra\obj\Debug\Dextra.dll
+C:\Users\j437665744\Downloads\Dextra\Dextra\obj\Debug\Dextra.pdb
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\csc.exe
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\vbc.exe
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Dextra.dll.config
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Dextra.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Dextra.pdb
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Antlr3.Runtime.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\EntityFramework.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\EntityFramework.SqlServer.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Newtonsoft.Json.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Owin.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Helpers.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Mvc.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Optimization.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Razor.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.Razor.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\WebGrease.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Helpers.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Mvc.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Optimization.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.Razor.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Antlr3.Runtime.pdb
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Newtonsoft.Json.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\EntityFramework.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\EntityFramework.SqlServer.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\obj\Debug\Dextra.csprojResolveAssemblyReference.cache
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\obj\Debug\Dextra.csproj.CoreCompileInputs.cache
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\obj\Debug\Dextra.dll
+C:\Users\Schneider\Downloads\Dextra_Novo\Dextra\obj\Debug\Dextra.pdb
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\csc.exe
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\System.Collections.Immutable.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\System.Reflection.Metadata.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\vbc.exe
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\VBCSCompiler.exe
+C:\repositorio\Dextra_Novo\Dextra\bin\roslyn\VBCSCompiler.exe.config
+C:\repositorio\Dextra_Novo\Dextra\bin\Dextra.dll.config
+C:\repositorio\Dextra_Novo\Dextra\bin\Dextra.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Dextra.pdb
+C:\repositorio\Dextra_Novo\Dextra\bin\Antlr3.Runtime.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\EntityFramework.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\EntityFramework.SqlServer.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Core.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Cookies.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Facebook.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Google.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.OAuth.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Twitter.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Web.Infrastructure.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Newtonsoft.Json.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Owin.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Helpers.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Mvc.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Optimization.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Razor.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.Deployment.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.Razor.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\WebGrease.dll
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Helpers.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Mvc.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Optimization.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.Razor.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.Deployment.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\System.Web.WebPages.Razor.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Antlr3.Runtime.pdb
+C:\repositorio\Dextra_Novo\Dextra\bin\Newtonsoft.Json.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\EntityFramework.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\EntityFramework.SqlServer.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Facebook.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Google.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\repositorio\Dextra_Novo\Dextra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\repositorio\Dextra_Novo\Dextra\obj\Debug\Dextra.csprojResolveAssemblyReference.cache
+C:\repositorio\Dextra_Novo\Dextra\obj\Debug\Dextra.csproj.CoreCompileInputs.cache
+C:\repositorio\Dextra_Novo\Dextra\obj\Debug\Dextra.dll
+C:\repositorio\Dextra_Novo\Dextra\obj\Debug\Dextra.pdb
